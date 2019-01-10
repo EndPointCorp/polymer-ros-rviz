@@ -37,7 +37,7 @@
     "paper-styles": "PolymerElements/paper-styles#^2.0.0",
     "paper-tooltip": "PolymerElements/paper-tooltip#^2.0.0",
     "ros3djs": "EndPointCorp/ros3djs#4fb03f8b0cc4305242872056d940eb0b32943ebb",
-    "ros-service": "jstnhuang/ros-service#^2.0.0",
+    "ros-service": "EndPointCorp/ros-service#4bfb64a248017abf3861c95d8de834f1365fa821",
     "ros-websocket": "EndPointCorp/ros-websocket#210151e1ec7b7e62c57f19a56f02ba05dc5f7323",
     "paper-dialog": "PolymerElements/paper-dialog#^2.0.0",
     "app-layout": "PolymerElements/app-layout#^2.0.1",
