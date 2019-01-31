@@ -36,7 +36,7 @@
     "paper-radio-group": "PolymerElements/paper-radio-group#^2.0.0",
     "paper-styles": "PolymerElements/paper-styles#^2.0.0",
     "paper-tooltip": "PolymerElements/paper-tooltip#^2.0.0",
-    "ros3djs": "EndPointCorp/ros3djs#b310182c9d56901b0d49a12f37f4e61c26bfc1e6",
+    "ros3djs": "EndPointCorp/ros3djs#5d391312024a82d7e00460207318426cef54ff7c",
     "ros-service": "EndPointCorp/ros-service#20197c3d2af61b33f438cb50f17322f615b2345d",
     "ros-websocket": "EndPointCorp/ros-websocket#b6629eda59767f041d016a36d0c9f5d31c1ead44",
     "paper-dialog": "PolymerElements/paper-dialog#^2.0.0",
